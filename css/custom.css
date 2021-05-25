@@ -27,8 +27,8 @@ body {
 .navbar-wrapper {
   position: absolute;
   top: 0;
-  right: 20;
-  left: 0;
+  right: 0;
+  left: 20;
   z-index: 20;
 }
 
@@ -38,7 +38,7 @@ body {
   padding-left: 0;
 }
 .navbar-wrapper .navbar {
-  padding-right: 40px;
+  padding-right: 15px;
   padding-left: 15px;
 }
 .navbar-wrapper .navbar .container {
